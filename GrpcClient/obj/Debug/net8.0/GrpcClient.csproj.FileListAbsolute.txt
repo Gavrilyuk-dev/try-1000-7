@@ -1,0 +1,63 @@
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.exe
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.deps.json
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.runtimeconfig.json
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.dll
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.pdb
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.AssemblyInfo.cs
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.Up2Date
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.dll
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\refint\GrpcClient.dll
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.pdb
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.genruntimeconfig.cache
+C:\Users\Anonymous\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\ref\GrpcClient.dll
+D:\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.exe
+D:\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.deps.json
+D:\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.runtimeconfig.json
+D:\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.dll
+D:\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.pdb
+D:\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\Google.Protobuf.dll
+D:\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\RiderProjects\GrpcExample\GrpcClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.AssemblyReference.cache
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.AssemblyInfoInputs.cache
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.AssemblyInfo.cs
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.CoreCompileInputs.cache
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.Up2Date
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.dll
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\refint\GrpcClient.dll
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.pdb
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.genruntimeconfig.cache
+D:\RiderProjects\GrpcExample\GrpcClient\obj\Debug\net8.0\ref\GrpcClient.dll
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.exe
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.deps.json
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.runtimeconfig.json
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.dll
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\bin\Debug\net8.0\GrpcClient.pdb
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.AssemblyInfo.cs
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.Up2Date
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.dll
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\refint\GrpcClient.dll
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.pdb
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\GrpcClient.genruntimeconfig.cache
+C:\Users\t7771\Desktop\учёба и всякое\GRPC\GrpcExample\GrpcClient\obj\Debug\net8.0\ref\GrpcClient.dll
